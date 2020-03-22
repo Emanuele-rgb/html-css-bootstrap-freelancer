@@ -1,0 +1,101 @@
+/* GENERAL */
+body {
+  font-family: 'Roboto Slab', serif;
+}
+
+
+/* UTILITIES */
+.white-color {
+  color: #fff;
+}
+.azure-color {
+  color: rgba(255,255,255, .25);
+}
+
+.text-center {
+  text-align: center;
+}
+
+.mb-25 {
+  margin-bottom: 25px;
+}
+.mt-25 {
+  margin-top: 25px;
+}
+
+
+.nav-text {
+  padding-left: 10px;
+  margin-top: 20px;
+  font-size: 30px;
+  color: white;
+}
+
+.img-responsive:hover {
+  opacity: 0.5;
+}
+
+.btn-download {
+  background-color: #1ABC9C;
+  border: 1px solid white;
+  border-radius: 5px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+/* HEADER */
+.background-blue {
+  background: #1ABC9C;
+}
+
+.main-header .contents {
+  margin-top: 20px;
+}
+
+.main-header .contents h1{
+  font-size: 40px;
+}
+
+.main-header .contents p{
+  font-size: 26px;
+}
+
+.main-header .contents a{
+  font-size: 32px;
+}
+
+.main-header .contents a:nth-last-child(2){
+  padding-right: 25px;
+}
+
+.main-header .phone {
+  margin-top: 50px;
+}
+
+.container-header {
+    background-color: #2C3E50;
+}
+.navbar {
+  height: 80px;
+  border-radius: 0px;
+}
+
+.container-small {
+  width: 1000px;
+}
+
+.center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.about {
+  font-size: 15px;
+}
+
+/* PLAN */
